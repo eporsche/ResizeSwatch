@@ -1,0 +1,18 @@
+{
+	"name" : "centerfy/resizeswatches",
+	"type" : "magento-module",
+	"description" : "Resize Configurable Swatches and keep aspect ratio",
+	"homepage" : "na",
+	"require" : {
+		"magento-hackathon/magento-composer-installer" : "~2.1.1"
+	},
+	"extra" : {
+		"magento_connect" : {
+			"channel" : "local",
+			"php_min" : "5.3.0",
+			"php_max" : "6.0.0",
+			"stability" : "beta",
+			"summary" : "app/etc/modules/Centerfy_ResizeSwatch.xml"
+		}
+	}
+}
