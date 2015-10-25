@@ -12,7 +12,7 @@
 			"php_min" : "5.3.0",
 			"php_max" : "6.0.0",
 			"stability" : "beta",
-			"summary" : "app/etc/modules/Centerfy_ResizeSwatch.xml"
+			"summary" : "Resize Configurable Swatches and keep aspect ratio"
 		}
 	}
 }
